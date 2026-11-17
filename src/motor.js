@@ -50,7 +50,7 @@ export function buildMotor() {
     steel: mk('#b4b9c1', {m: 1, r: 0.35}),
     violet: mk('#7461ad', {m: 0.5, r: 0.45}),
     cup: mk('#7461ad', {m: 0.5, r: 0.45}),
-    olive: mk('#87a043', {m: 0.45, r: 0.45}),
+    olive: mk('#b8282e', {m: 0.45, r: 0.45}),
     blue: mk('#3f6ea6', {m: 0.5, r: 0.45}),
     mandrel: mk('#8fa6c4', {m: 0.8, r: 0.35}),
     yellow: mk('#cfd25d', {m: 0.4, r: 0.45}),
@@ -58,7 +58,7 @@ export function buildMotor() {
     orange: mk('#e08a2c', {m: 0.3, r: 0.5}),
     dark: mk('#202226', {m: 0.2, r: 0.6}),
     ball: mk('#dfe3e8', {m: 1, r: 0.22, env: 0.9}),
-    lock: mk('#55682a', {m: 0.4, r: 0.5}),
+    lock: mk('#6e1a1e', {m: 0.4, r: 0.5}),
   };
   // flat matte section colour per material
   const CAP = new Map();
